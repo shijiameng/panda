@@ -34,3 +34,6 @@
 [submodule "roms/skiboot"]
 	path = roms/skiboot
 	url = https://git.qemu.org/git/skiboot.git
+[submodule "panda/plugins/memcheck"]
+	path = panda/plugins/memcheck
+	url = https://github.com/shijiameng/memcheck
