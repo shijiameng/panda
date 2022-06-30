@@ -20,6 +20,7 @@ libfi
 lighthouse_coverage
 loaded
 loaded_libs
+memcheck
 mem_hooks
 memorymap
 memsavep
